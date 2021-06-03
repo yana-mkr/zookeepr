@@ -120,6 +120,15 @@
         "loving"
       ],
       "id": "12"
+    },
+    {
+      "name": "Steve",
+      "species": "Monkey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "13"
     }
   ]
 }
